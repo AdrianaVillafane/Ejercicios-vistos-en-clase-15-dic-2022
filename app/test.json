@@ -1,0 +1,20 @@
+[
+    {
+      "nombre": "Gabriel",
+      "apellido": "Alberini",
+      "edad": 28,
+      "cursos":["Frontend", "Backend", "Figma"]
+    },
+    {
+      "nombre": "Maira",
+      "apellido": "Ledesma",
+      "edad": 30,
+      "cursos":["Frontend", "Backend", "Figma"]
+    },
+    {
+      "nombre": "Adriana",
+      "apellido": "Villafañe",
+      "edad": 51,
+      "cursos": ["Frontend", "Backend","Figma"]
+    }
+  ]
